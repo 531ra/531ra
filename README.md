@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @531ra
+- 👋 Hi, I’m Raghav 
 - 👀 I’m interested in exploring new things
 - 🌱 I’m currently learning Android Development using kotlin
 - 💞️ I’m looking to collaborate on ...
